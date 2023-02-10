@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MudiagaOtojareri_COMP304Sec004_Lab3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="leftEdgelimit">"You are at the left edge of the screen already! Cannot go further left!"</string>
+    <string name="upEdgeLimit">"You are at the top edge of the screen already! Cannot go further up!"</string>
+    <string name="rightEdgeLimit">"You are at the right edge of the screen already! Cannot go further right!"</string>
+    <string name="bottomEdgeLimit">"You are at the bottom edge of the screen already! Cannot go further down!"</string>
+    <string-array name="lineThicknessArr">
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+    </string-array>
+    <string name="startAnimation">Animation started!</string>
+    <string name="stopAnimation">Animation stopped</string>
+</resources>
